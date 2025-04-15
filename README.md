@@ -1,4 +1,4 @@
-### Un tipo chill de cojones 🦫
+### Un tipo chill de cojones 
 
 <!--
 **Miguel1281/Miguel1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
